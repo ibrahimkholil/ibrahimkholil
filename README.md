@@ -1,4 +1,4 @@
-<img src="[https://github.com/account](https://avatars.githubusercontent.com/u/22941791?v=4)">
+<img src="https://github.com/ibrahimkholil/ibrahimkholil/blob/main/black--white-github-banner.jpg">
 
 <h2> Hey there! I'm Ibrahim Khalil.</h2>
 
