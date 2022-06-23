@@ -1,4 +1,4 @@
-<img src="https://github.com/ibrahimkholil/ibrahimkholil/blob/main/black--white-github-banner.jpg">
+<img src="https://raw.githubusercontent.com/ibrahimkholil/ibrahimkholil/aa73a363da6c53350dee37081495b990759fea09/newbn-github-banner.jpg">
 
 <h2> Hey there! I'm Ibrahim Khalil.</h2>
 
