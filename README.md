@@ -40,7 +40,7 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 <br/>
-
+ <H3>⚙️ GitHub Analytics</H3>
 <a href="https://github.com/ibrahimkholil">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahimkholil&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimkholil&theme=buefy&layout=compact" />
