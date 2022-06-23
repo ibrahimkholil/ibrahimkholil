@@ -42,8 +42,8 @@
 <br/>
  <H3>⚙️ GitHub Analytics</H3>
 <a href="https://github.com/ibrahimkholil">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahimkholil&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimkholil&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahimkholil&theme=buefy&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimkholil&theme=buefy&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" />
 </a>
 
 <br/>
