@@ -54,4 +54,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-[![Twitter Badge](https://img.shields.io/badge/-@KunalRaghav-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_Kunal_Raghav_)](https://twitter.com/_Kunal_Raghav_) [![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalraghav/)](https://www.linkedin.com/in/kunalraghav/) [![Medium Badge](https://img.shields.io/badge/-@KunalRaghav-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@KunalRaghav/)](https://medium.com/@KunalRaghav/)
+  <a href="https://www.facebook.com/artuurs.smirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30"></a>
+<a href="https://twitter.com/IKholil" target="_blank"><img src="https://raw.githubusercontent.com/ibrahimkholil/ibrahimkholil/master/tw.png" alt="Twitter" width="30"></a>
+<a href="https://www.instagram.com/arturssmirnovs/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
+<a href="https://www.linkedin.com/in/art%C5%ABrs-smirnovs-b6399275/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://github.com/arturssmirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
+<a href="https://arturio.dev/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
+</p>
