@@ -13,7 +13,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
+  ![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
   ![Wordpress](https://img.shields.io/badge/-wordpress-333333?style=flat&logo=wordpress&logoColor=007396)
 
 - 🌐 &nbsp;
@@ -21,6 +21,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
