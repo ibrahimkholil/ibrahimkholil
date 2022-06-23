@@ -57,6 +57,6 @@
 <a href="https://twitter.com/IKholil" target="_blank"><img src="https://raw.githubusercontent.com/ibrahimkholil/ibrahimkholil/80071417bf207435a43fbc550af1eeca893883f8/tw.png" alt="Twitter" width="30"></a>
 <a href="https://www.instagram.com/i.k.masud/" target="_blank"><img src="https://raw.githubusercontent.com/ibrahimkholil/ibrahimkholil/80071417bf207435a43fbc550af1eeca893883f8/ig.png" alt="Instagram" width="30"></a>
 <a href="https://www.linkedin.com/in/ibrahim-kholil-masud-a27232b8/" target="_blank"><img src="https://raw.githubusercontent.com/ibrahimkholil/ibrahimkholil/80071417bf207435a43fbc550af1eeca893883f8/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://github.com/arturssmirnovs" target="_blank"><img src="https://raw.githubusercontent.com/ibrahimkholil/ibrahimkholil/80071417bf207435a43fbc550af1eeca893883f8/git.png" alt="GitHub" width="30"></a>
+<a href="https://github.com/ibrahimkholil" target="_blank"><img src="https://raw.githubusercontent.com/ibrahimkholil/ibrahimkholil/80071417bf207435a43fbc550af1eeca893883f8/git.png" alt="GitHub" width="30"></a>
 <a href="https://arturio.dev/" target="_blank"><img src="https://raw.githubusercontent.com/ibrahimkholil/ibrahimkholil/80071417bf207435a43fbc550af1eeca893883f8/www.png" alt="Website" width="30"></a>
 </p>
