@@ -3,7 +3,23 @@
 <h2> Hey there! I'm Ibrahim Khalil.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
+I am an expert Web Developer with hands-on experience in PHP, HTML5, Jquery, CSS3, E-commerce solutions
 
+Why hire me?
+- 5+ years of experience in web and Wordpress Developer, web design
+- Professional Web and Wordpress Developer   skills and experiences
+- Top 10 % in Web design   
+
+I can show you my skill set:
+- Figma to elementor
+- Figma to Wordpress Custom theme and plugin
+- PHP, HTML, HTML5, CSS, CSS3, Bootstrap3/4
+- JavaScript, JQuery, React
+- Wordpress, Woocommerce, Elementor, Visual Builder, Beaver Builder
+- Wordpress plugin and theme development- Theme and plugin customization Wp 
+- Shopify templates/Themes development and customization  
+- Mysql,
+-PSD to Wordpress
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
