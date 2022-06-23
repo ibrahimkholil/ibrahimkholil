@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="[https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png](https://camo.githubusercontent.com/f96fe25b150c6d62d6ff99b9f21006595c8cd757a24ebddf9d158297337cf6d1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966)">
 
 <h2> Hey there! I'm Ibrahim Khalil.</h2>
 
