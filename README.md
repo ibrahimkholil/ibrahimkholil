@@ -1,6 +1,6 @@
 <img src="[https://github.com/account](https://avatars.githubusercontent.com/u/22941791?v=4)">
 
-<h2> Hey there! I'm Ibrahim Khalil. Web Design and Wordpress Developer</h2>
+<h2> Hey there! I'm Ibrahim Khalil.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
