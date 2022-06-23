@@ -52,7 +52,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ibrahim-kholil-masud-a27232b8) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ibrahimkholil) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/MrAkhilG) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://facebook.com/akhilgkrishnan9800)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ibrahim-kholil-masud-a27232b8)] [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ibrahimkholil) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/MrAkhilG) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://facebook.com/akhilgkrishnan9800)
 </p>
 
 ⭐️ From [ibrahimkholil](https://github.com/ibrahimkholil)
