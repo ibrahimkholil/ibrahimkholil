@@ -13,7 +13,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Wordpress](https://img.shields.io/badge/-wordpress-333333?style=flat&logo=wordpress&logoColor=007396)
 
 - 🌐 &nbsp;
