@@ -53,10 +53,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="LEFT">
-  <a href="https://www.facebook.com/artuurs.smirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30"></a>
-<a href="https://twitter.com/IKholil" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
-<a href="https://www.instagram.com/arturssmirnovs/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
-<a href="https://www.linkedin.com/in/art%C5%ABrs-smirnovs-b6399275/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://github.com/arturssmirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
-<a href="https://arturio.dev/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
+  <a href="https://www.facebook.com/ik.efti" target="_blank"><img src="https://raw.githubusercontent.com/ibrahimkholil/ibrahimkholil/80071417bf207435a43fbc550af1eeca893883f8/fb.png" alt="Facebook" width="30"></a>
+<a href="https://twitter.com/IKholil" target="_blank"><img src="https://raw.githubusercontent.com/ibrahimkholil/ibrahimkholil/80071417bf207435a43fbc550af1eeca893883f8/tw.png" alt="Twitter" width="30"></a>
+<a href="https://www.instagram.com/i.k.masud/" target="_blank"><img src="https://raw.githubusercontent.com/ibrahimkholil/ibrahimkholil/80071417bf207435a43fbc550af1eeca893883f8/ig.png" alt="Instagram" width="30"></a>
+<a href="https://www.linkedin.com/in/ibrahim-kholil-masud-a27232b8/" target="_blank"><img src="https://raw.githubusercontent.com/ibrahimkholil/ibrahimkholil/80071417bf207435a43fbc550af1eeca893883f8/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://github.com/ibrahimkholil" target="_blank"><img src="https://raw.githubusercontent.com/ibrahimkholil/ibrahimkholil/80071417bf207435a43fbc550af1eeca893883f8/git.png" alt="GitHub" width="30"></a>
+<a href="https://arturio.dev/" target="_blank"><img src="https://raw.githubusercontent.com/ibrahimkholil/ibrahimkholil/80071417bf207435a43fbc550af1eeca893883f8/www.png" alt="Website" width="30"></a>
 </p>
